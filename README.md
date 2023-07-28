@@ -10,7 +10,7 @@ Looks at the version files in the Selenium zip folder’s nested folders, and lo
 Locates and logs the newest version available link1 (the more basic page therein is link2)
 Compares the highest version number to what was in the Selenium zip folder
 Logs if the highest version numbers both from the Selenium zip folder and the website match or not
-If there is a newer version on the website then download it, logging when the download is successful and complete
+If there is a newer version on the  website then download it, logging when the download is successful and complete
 If there isn’t a newer version then log that there isn’t a newer version.
 
 
