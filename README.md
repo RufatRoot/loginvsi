@@ -6,8 +6,8 @@ If a newer Selenium web driver version exists online then we need to download it
 
 Write a script that:/
 
-Looks at the version files in the Selenium zip folder’s nested folders, and logs these version numbers/
-Locates and logs the newest version available link1 (the more basic page therein is link2)/
+Looks at the version files in the Selenium zip folder’s nested folders, and logs these version numbers\
+Locates and logs the newest version available link1 (the more basic page therein is link2)\
 Compares the highest version number to what was in the Selenium zip folder/
 Logs if the highest version numbers both from the Selenium zip folder and the website match or not/
 If there is a newer version on the  website then download it, logging when the download is successful and complete/
